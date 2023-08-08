@@ -23,13 +23,13 @@ https://jayeshecommerce.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone https://github.com/JAYESH-VIJAY/Ecommerce.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd React_E-Commerce
+  cd Ecommerce
 ```
 
 Install dependencies
